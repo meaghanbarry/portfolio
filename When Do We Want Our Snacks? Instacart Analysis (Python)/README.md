@@ -1,5 +1,5 @@
 # When Do We Want Our Snacks?
-*Exploring over 32 million items purchased from Instacart*
+## *Exploring over 32 million items purchased from Instacart*
 
 View the **[Jupyter Notebook](meaghan-barry-instacart-analysis.ipynb)** for the full analysis.
 
