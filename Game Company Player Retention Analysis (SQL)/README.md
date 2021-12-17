@@ -2,7 +2,7 @@
 
 ## Background
 
-We've been hired by a mobile gaming company to answer the following questions for their one year anniversary:
+Our client is a mobile gaming company to answer the following questions for their one year anniversary:
 
 1. Is 30-day rolling retention increasing or decreasing over the lifecycle of the game?
 2. Does a player’s age affect their rolling 30-day retention rate?
